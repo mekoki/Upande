@@ -1,0 +1,18 @@
+<mockup version="1.0" skin="sketch" measuredW="761" measuredH="412" mockupW="530" mockupH="347">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="231" y="65" w="530" h="347" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LineChart" x="268" y="120" w="-1" h="-1" measuredW="187" measuredH="175" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::PieChart" x="525" y="117" w="-1" h="-1" measuredW="180" measuredH="180" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::CallOut" x="418" y="237" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::CallOut" x="683" y="111" w="-1" h="-1" measuredW="39" measuredH="39" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="268" y="310" w="454" h="73" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20line%20graph%20is%20good%20at%20showing%20how%20data%20changes%20over%20time.%20A%20pie%20chart%20is%20good%20at%20showing%20how%20different%20sets%20of%20data%20are%20part%20of%20a%20unified%20whole.%20By%20using%20both%20graphs%20next%20to%20each%20other%2C%20you%20can%20show%20all%20the%20information%20you%20need%20without%20overloading%20your%20users%20with%20a%20single%20too-complex%20graph.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
